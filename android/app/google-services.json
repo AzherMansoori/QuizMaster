@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917853762851",
+    "project_id": "checkin-828d2",
+    "storage_bucket": "checkin-828d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917853762851:android:13249f0fd80404fa830896",
+        "android_client_info": {
+          "package_name": "com.quizmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917853762851-5autjm3rnd29tb0lvsvgj049816qcn53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNq1oCXvKYYUX1Ik85fbkq1QXPOwq9Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917853762851-5autjm3rnd29tb0lvsvgj049816qcn53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
