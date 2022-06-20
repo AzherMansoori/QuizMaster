@@ -1,33 +1,57 @@
 {
   "project_info": {
-    "project_number": "917853762851",
-    "project_id": "checkin-828d2",
-    "storage_bucket": "checkin-828d2.appspot.com"
+    "project_number": "1025617248546",
+    "project_id": "quizmaster-2ee69",
+    "storage_bucket": "quizmaster-2ee69.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:917853762851:android:13249f0fd80404fa830896",
+        "mobilesdk_app_id": "1:1025617248546:android:bd5671f6559076b0be657b",
         "android_client_info": {
           "package_name": "com.quizmaster"
         }
       },
       "oauth_client": [
         {
-          "client_id": "917853762851-5autjm3rnd29tb0lvsvgj049816qcn53.apps.googleusercontent.com",
+          "client_id": "1025617248546-htthv45s1q8i4nrpml4dgllimsjcdpvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizmaster",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1025617248546-jt6tbk4mje0ok38scr6e18d8a9klsfhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizmaster",
+            "certificate_hash": "bfeab2aaf1d6f20c7fea74c8a8ccc79bb8e3404d"
+          }
+        },
+        {
+          "client_id": "1025617248546-nkpb6455gv5g2imcltcoghrg43ro27hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizmaster",
+            "certificate_hash": "cc30e96733c2372a6e629f87bd71ba81bb820d6f"
+          }
+        },
+        {
+          "client_id": "1025617248546-0bohkobkdnlh5j8vi4kqttdeg3t0egha.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQNq1oCXvKYYUX1Ik85fbkq1QXPOwq9Tw"
+          "current_key": "AIzaSyDKBwiwlOe_yGXD-sOiwpGvSlgB_5ff88A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "917853762851-5autjm3rnd29tb0lvsvgj049816qcn53.apps.googleusercontent.com",
+              "client_id": "1025617248546-0bohkobkdnlh5j8vi4kqttdeg3t0egha.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
